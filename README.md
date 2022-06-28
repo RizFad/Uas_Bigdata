@@ -17,7 +17,7 @@ dengan data yang berjumlah -+ 50.000 baris
 ## Output Hasil Big Data
 ![image](https://user-images.githubusercontent.com/65906559/176164824-6981623d-8880-4f02-887e-bc4ee03de847.png)
 
- Output dari studi kasus 3 menampilkan jumlah film dengan rentang tahun 1950 – 1960 ada 547 film
+ Output dari studi kasus menampilkan jumlah film dengan rentang tahun 1950 – 1960 ada 547 film
  
 ## Link 
 Link Youtube [klik dong](https://youtu.be/tKGX5q--0Fs)
